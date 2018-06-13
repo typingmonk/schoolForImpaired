@@ -1,4 +1,4 @@
-district,name,code,type,address,website,cy,cx,tel,fax,V,H,MCP,EB,LD,A,O,ND,note
+division,name,code,type,address,website,cy,cx,tel,fax,V,HS,MCP,EB,LD,A,O,ND,note
 臺北市,市立西松高級中學,313301,普通科,10586 臺北市松山區健康路 325 巷 7 號,http://www.hssh.tp.edu.tw/,25.055666,121.567135,(02)2528-6618,(02)2766-1724,1,1,1,2,5,4,1,0,
 臺北市,市立中崙高級中學,313302,普通科,10561 臺北市松山區八德路四段 101 號,http://www.zlsh.tp.edu.tw/,25.049118,121.561082,(02)2753-5316,(02)2528-6362,1,1,1,2,5,4,1,0,
 臺北市,市立松山高級中學,323301,普通科,11070 臺北市信義區基隆路一段 156 號,http://www.sssh.tp.edu.tw/,25.043811,121.565561,(02)2753-5968,(02)8787-6960,3,1,1,2,5,6,1,0,
